@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Luke 
 
-<!--
-**lukenorr/lukenorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security automation engineer. Spent 4.5 years at HSBC building SOAR
+playbooks and automation; spent the last year travelling including a big accross China and trekking across the Everest region in Nepal.
 
-Here are some ideas to get you started:
+Recently got a Raspberry Pi for Mac backups and photos (de-Googling,
+slowly). Then figured that since it's running anyway, I might as well
+teach it to watch the network:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 [watchtower](https://github.com/lukenorr/watchtower) — LLM triage
+of Pi-hole DNS logs, with guardrails and an eval harness. Part fun,
+part learning to build LLM pipelines properly.
+
+Currently learning: LLM pipelines, and Mandarin (slowly).
