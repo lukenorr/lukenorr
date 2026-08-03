@@ -3,7 +3,7 @@
 Security automation engineer. Spent 4.5 years at HSBC building SOAR
 playbooks and automation; spent the last year travelling including a big accross China and trekking across the Everest region in Nepal.
 
-🌐 **[lukenorris.me](https://lukenorris.me)** — personal site with a fun 3D fish tank
+🌐 **[lukenorris.me](https://lukenorris.me)** — personal site if you want to find out more about me
 
 Recently got a Raspberry Pi for Mac backups and photos (de-Googling,
 slowly). Then figured that since it's running anyway, I might as well
